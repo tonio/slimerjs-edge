@@ -1,3 +1,13 @@
+# slimerjs-edge
+
+[![npm version](https://badge.fury.io/js/slimerjs-edge.svg)](https://www.npmjs.com/package/slimerjs-edge)
+
+Slimerjs-edge is a fork of the `slimerjs` npm package which installs the most recently updated nightly version of SlimerJS. Use with caution.
+
+```shell
+npm install slimerjs-edge
+```
+
 slimerjs
 =========
 
