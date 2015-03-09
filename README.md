@@ -94,8 +94,8 @@ not expose a Common JS package loader.
 This is an _NPM wrapper_ and can be used to conveniently make Slimer available
 It is not a Node JS wrapper.
 
-I have had reasonable experiences writing standalone Slimer scripts which I
-then drive from within a node program by spawning slimer in a child process.
+Standalone SlimerJS scripts can be driven from within a node program by spawning
+SlimerJS in a child process.
 
 Read the SlimerJS FAQ for more details: http://slimerjs.org/faq.html
 
