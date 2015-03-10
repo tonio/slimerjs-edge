@@ -3,7 +3,7 @@ slimerjs
 
 [![npm version](https://badge.fury.io/js/slimerjs.svg)](https://www.npmjs.com/package/slimerjs)
 
-An NPM wrapper for the edge version of [SlimerJS](http://slimerjs.org/), a scriptable browser for web development and testing.
+An NPM wrapper for [SlimerJS](http://slimerjs.org/), a scriptable browser for web development and testing.
 
 SlimerJS runs on Gecko, the browser engine behind [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), and aims to be a simple, drop-in replacement for [phantomjs](https://github.com/Medium/phantomjs). Because SlimerJS uses the version of firefox passed in the `SLIMERJSLAUNCHER` environment variable, edge builds of firefox can be used. This can be useful for viewing and testing modern web functionality which is [not yet available in phantomjs](https://github.com/ariya/phantomjs/issues/10031).
 
