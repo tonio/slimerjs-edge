@@ -21,7 +21,7 @@ var url = require('url')
 var util = require('util')
 var which = require('which')
 
-var downloadUrl = 'http://download.slimerjs.org/releases/'+ helper.version +'/slimerjs-'+ helper.version +'-'
+var downloadUrl = 'http://download.slimerjs.org/nightlies/'+ helper.version +'/slimerjs-'+ helper.version +'-'
 
 var originalPath = process.env.PATH
 
