@@ -6,11 +6,11 @@
     "headless",
     "gecko"
   ],
-  "description": "Headless Gecko with JS API",
-  "homepage": "https://github.com/graingert/slimerjs",
+  "description": "npm wrapper for installing the bleeding edge version of slimerjs",
+  "homepage": "https://github.com/bitjson/slimerjs-edge",
   "repository": {
     "type": "git",
-    "url": "git://github.com/graingert/slimerjs.git"
+    "url": "git://github.com/bitjson/slimerjs-edge.git"
   },
   "licenses": [
     {
