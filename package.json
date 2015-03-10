@@ -37,7 +37,7 @@
   ],
   "main": "lib/slimerjs",
   "bin": {
-    "slimerjs": "./bin/slimerjs"
+    "slimerjs-edge": "./bin/slimerjs"
   },
   "scripts": {
     "install": "node install.js",
