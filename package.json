@@ -44,15 +44,15 @@
     "test": "nodeunit --reporter=minimal test/tests.js"
   },
   "dependencies": {
-    "adm-zip": "0.2.1",
-    "kew": "~0.1.7",
-    "ncp": "0.4.2",
-    "npmconf": "0.0.24",
-    "mkdirp": "0.3.5",
-    "rimraf": "~2.2.2",
-    "which": "~1.0.5"
+    "adm-zip": "0.4.7",
+    "kew": "~0.6.0",
+    "ncp": "2.0.0",
+    "npmconf": "2.1.2",
+    "mkdirp": "0.5.1",
+    "rimraf": "~2.4.0",
+    "which": "~1.1.1"
   },
   "devDependencies": {
-    "nodeunit": "~0.7.4"
+    "nodeunit": "~0.9.1"
   }
 }
